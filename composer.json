@@ -1,0 +1,13 @@
+{
+    "name": "gzbszx/email",
+    "description": "this email easy interface",
+    "type": "project",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "maikeseng",
+            "email": "haoqijian@126.com"
+        }
+    ],
+    "require": {}
+}
